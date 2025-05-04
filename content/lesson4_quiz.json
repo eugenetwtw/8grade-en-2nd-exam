@@ -1,0 +1,113 @@
+[
+  {
+    "question": "To be safe, you should drive ______ on rainy days.",
+    "options": {
+      "A": "careful",
+      "B": "carefully",
+      "C": "care",
+      "D": "caring"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 drive，需要用副詞 carefully。"
+  },
+  {
+    "question": "A: How did Tom do on the English test?\nB: He did ______. He got a perfect score.",
+    "options": {
+      "A": "good",
+      "B": "well",
+      "C": "nice",
+      "D": "fine"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 did，需要用副詞 well (good 的副詞形式)。"
+  },
+  {
+    "question": "My brother speaks English very ______. Many people think he is American.",
+    "options": {
+      "A": "fluent",
+      "B": "fluently",
+      "C": "fast",
+      "D": "fastly"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 speaks，需要用副詞 fluently。Fastly 不是標準英文單字，fast 本身即可當副詞。"
+  },
+  {
+    "question": "The old man walks ______ because his legs hurt.",
+    "options": {
+      "A": "slow",
+      "B": "slowly",
+      "C": "quick",
+      "D": "quickly"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 walks，需要用副詞 slowly。"
+  },
+  {
+    "question": "______ run in the hallways. It's dangerous.",
+    "options": {
+      "A": "Not",
+      "B": "No",
+      "C": "Don't",
+      "D": "Doesn't"
+    },
+    "answer": "C",
+    "explanation": "否定祈使句用 Don't + 原形動詞。"
+  },
+  {
+    "question": "Let's ______ the tent before it gets dark.",
+    "options": {
+      "A": "set up",
+      "B": "make",
+      "C": "climb",
+      "D": "boil"
+    },
+    "answer": "A",
+    "explanation": "set up the tent 是「搭帳篷」的固定用法。"
+  },
+  {
+    "question": "We need to ______ a fire to keep warm tonight.",
+    "options": {
+      "A": "set up",
+      "B": "make",
+      "C": "do",
+      "D": "build"
+    },
+    "answer": "B",
+    "explanation": "make a fire 是「生火」的固定用法。"
+  },
+  {
+    "question": "A: The box is too heavy for me.\nB: Don't worry. I can carry it ______.",
+    "options": {
+      "A": "easy",
+      "B": "easily",
+      "C": "ease",
+      "D": "easier"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 carry，需要用副詞 easily (easy 的副詞形式)。"
+  },
+  {
+    "question": "He worked very ______ and finished the project early.",
+    "options": {
+      "A": "hard",
+      "B": "hardly",
+      "C": "harder",
+      "D": "hardest"
+    },
+    "answer": "A",
+    "explanation": "修飾動詞 worked，需要用副詞 hard (努力地)。Hardly 意思是「幾乎不」。"
+  },
+  {
+    "question": "Please speak _______. The baby is sleeping.",
+    "options": {
+      "A": "soft",
+      "B": "softly",
+      "C": "loud",
+      "D": "loudly"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 speak，需要用副詞 softly (輕柔地)。"
+  }
+]
+

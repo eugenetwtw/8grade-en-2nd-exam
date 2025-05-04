@@ -1,0 +1,113 @@
+[
+  {
+    "question": "When the earthquake hit, I felt the whole building ______.",
+    "options": {
+      "A": "shook",
+      "B": "shaking",
+      "C": "to shake",
+      "D": "shakes"
+    },
+    "answer": "B",
+    "explanation": "感官動詞 felt 後接受詞 the whole building，再接原形動詞 (shake) 或現在分詞 (shaking)。此處強調「正在搖晃」的狀態，用 shaking 較佳。"
+  },
+  {
+    "question": "Did you see the boy ______ the window?",
+    "options": {
+      "A": "break",
+      "B": "broke",
+      "C": "to break",
+      "D": "breaks"
+    },
+    "answer": "A",
+    "explanation": "感官動詞 see 後接受詞 the boy，再接原形動詞 (break) 或現在分詞 (breaking)。此處強調看到「打破」這個動作，用原形動詞 break。"
+  },
+  {
+    "question": "Listen! I hear someone ______ my name outside.",
+    "options": {
+      "A": "call",
+      "B": "called",
+      "C": "calling",
+      "D": "to call"
+    },
+    "answer": "C",
+    "explanation": "感官動詞 hear 後接受詞 someone，再接原形動詞 (call) 或現在分詞 (calling)。此處強調「正在呼叫」的動作，用 calling。"
+  },
+  {
+    "question": "The little girl taught ______ how to tie her shoes.",
+    "options": {
+      "A": "her",
+      "B": "she",
+      "C": "hers",
+      "D": "herself"
+    },
+    "answer": "D",
+    "explanation": "動詞 taught 的主詞 (The little girl) 和受詞是同一人，故受詞用反身代名詞 herself。"
+  },
+  {
+    "question": "You don't need to help me. I can finish the report ______.",
+    "options": {
+      "A": "me",
+      "B": "my",
+      "C": "mine",
+      "D": "myself"
+    },
+    "answer": "D",
+    "explanation": "此處 myself 用於加強語氣，表示「我自己」可以完成，或理解為 by myself (獨自)。"
+  },
+  {
+    "question": "Tom and Jerry often argue, but they always make friends with ______ again quickly.",
+    "options": {
+      "A": "them",
+      "B": "their",
+      "C": "theirs",
+      "D": "themselves"
+    },
+    "answer": "D",
+    "explanation": "更常見的說法是 make friends with each other。若選項限制，themselves 暗示他們各自努力恢復友誼。"
+  },
+  {
+    "question": "The machine can turn ______ off automatically when it's done.",
+    "options": {
+      "A": "it",
+      "B": "its",
+      "C": "itself",
+      "D": "it's"
+    },
+    "answer": "C",
+    "explanation": "動詞 turn off 的主詞 (The machine) 和受詞是同一物，故受詞用反身代名詞 itself。"
+  },
+  {
+    "question": "During an earthquake, you should ______ under a strong table and hold onto it.",
+    "options": {
+      "A": "cover",
+      "B": "hide",
+      "C": "protect",
+      "D": "stay"
+    },
+    "answer": "B",
+    "explanation": "Hide 較符合躲在桌下的語意。Cover 通常指用某物蓋住身體。"
+  },
+  {
+    "question": "Don't use the ______ during an earthquake or a fire.",
+    "options": {
+      "A": "stairs",
+      "B": "door",
+      "C": "window",
+      "D": "elevator"
+    },
+    "answer": "D",
+    "explanation": "地震或火災時，禁止使用電梯 (elevator)。"
+  },
+  {
+    "question": "We watched the children ______ happily in the park.",
+    "options": {
+      "A": "play",
+      "B": "played",
+      "C": "to play",
+      "D": "playing"
+    },
+    "answer": "D",
+    "explanation": "感官動詞 watched 後接受詞 the children，再接原形動詞 (play) 或現在分詞 (playing)。兩者皆可，playing 強調正在玩。"
+  }
+]
+

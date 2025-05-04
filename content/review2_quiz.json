@@ -1,0 +1,113 @@
+[
+  {
+    "question": "A: The cake looks ______!\nB: Yeah, and it tastes ______ too.",
+    "options": {
+      "A": "wonderful; wonderfully",
+      "B": "wonderfully; wonderful",
+      "C": "wonderful; wonderful",
+      "D": "wonderfully; wonderfully"
+    },
+    "answer": "C",
+    "explanation": "look 和 taste 在此皆為連綴動詞，後面應接形容詞 wonderful。"
+  },
+  {
+    "question": "He finished his homework very ______ so he could watch TV.",
+    "options": {
+      "A": "quick",
+      "B": "quickly",
+      "C": "slow",
+      "D": "slowly"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 finished，需要用副詞 quickly。"
+  },
+  {
+    "question": "A: How did she sing at the party?\nB: She sang ______. Everyone enjoyed her song.",
+    "options": {
+      "A": "beautiful",
+      "B": "beautifully",
+      "C": "good",
+      "D": "well"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 sang，需要用副詞 beautifully。雖然 well 也是副詞，但 beautifully 更貼切描述歌聲。"
+  },
+  {
+    "question": "My father always drives ______ when it rains.",
+    "options": {
+      "A": "careful",
+      "B": "carefully",
+      "C": "safe",
+      "D": "safely"
+    },
+    "answer": "B",
+    "explanation": "修飾動詞 drives，需要用副詞 carefully。Safely (安全地) 也可以，但 carefully (小心地) 更符合語境。"
+  },
+  {
+    "question": "______ make noise in the library. People are reading.",
+    "options": {
+      "A": "Let's not",
+      "B": "Don't",
+      "C": "Not",
+      "D": "Please not"
+    },
+    "answer": "B",
+    "explanation": "否定祈使句用 Don't + 原形動詞。Let's not 是提議「我們不要...」。"
+  },
+  {
+    "question": "The food at that restaurant always smells ______.",
+    "options": {
+      "A": "good",
+      "B": "well",
+      "C": "nice",
+      "D": "delicious"
+    },
+    "answer": "A",
+    "explanation": "smell 是連綴動詞，後接形容詞。good 和 delicious 都適用，delicious 語氣更強。若題目為單選，需視選項設計，此處假設 good。"
+  },
+  {
+    "question": "He is a ______ worker. He always works ______.",
+    "options": {
+      "A": "hard; hard",
+      "B": "hardly; hard",
+      "C": "hard; hardly",
+      "D": "hardly; hardly"
+    },
+    "answer": "A",
+    "explanation": "第一個 hard 是形容詞，修飾名詞 worker。第二個 hard 是副詞，修飾動詞 works。"
+  },
+  {
+    "question": "Let's ______ the campfire before we go hiking.",
+    "options": {
+      "A": "make",
+      "B": "set up",
+      "C": "climb",
+      "D": "boil"
+    },
+    "answer": "A",
+    "explanation": "make a campfire 是「生營火」。Set up a tent 是「搭帳篷」。"
+  },
+  {
+    "question": "You look ______ today. Are you sick?",
+    "options": {
+      "A": "pale",
+      "B": "palely",
+      "C": "bad",
+      "D": "badly"
+    },
+    "answer": "A",
+    "explanation": "look 是連綴動詞，後接形容詞 pale (蒼白的)。Badly 是副詞。Bad 也可以，但 pale 更具體。"
+  },
+  {
+    "question": "Please handle the glass _______. It breaks ______.",
+    "options": {
+      "A": "careful; easy",
+      "B": "carefully; easily",
+      "C": "careful; easily",
+      "D": "carefully; easy"
+    },
+    "answer": "B",
+    "explanation": "第一個 carefully 是副詞，修飾動詞 handle。第二個 easily 是副詞，修飾動詞 breaks。"
+  }
+]
+

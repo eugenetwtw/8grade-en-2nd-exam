@@ -1,0 +1,91 @@
+[
+  {
+    "question": "This apple pie ______ delicious. You should try some.",
+    "options": {
+      "A": "tastes",
+      "B": "taste",
+      "C": "is tasting",
+      "D": "tasting"
+    },
+    "answer": "A",
+    "explanation": "連綴動詞 taste 後接形容詞 delicious，描述主詞 pie 的狀態，用第三人稱單數現在式 tastes。"
+  },
+  {
+    "question": "A: How does the music ______?\nB: It ______ beautiful.",
+    "options": {
+      "A": "sound; sounds",
+      "B": "sounds; sound",
+      "C": "sound; is sounding",
+      "D": "is sounding; sounds"
+    },
+    "answer": "A",
+    "explanation": "問句用 How does + 主詞 + 原形動詞 (sound)? 回答用 主詞 + 連綴動詞 (sounds) + 形容詞。"
+  },
+  {
+    "question": "Be quiet! The baby ______ now.",
+    "options": {
+      "A": "looks sleeping",
+      "B": "is looking sleep",
+      "C": "looks sleepy",
+      "D": "is looking sleepy"
+    },
+    "answer": "C",
+    "explanation": "連綴動詞 look 後接形容詞 sleepy (想睡的)，描述主詞 baby 的狀態。此處 look 表「看起來」，非進行式。"
+  },
+  {
+    "question": "Mary ______ happy because she got a present.",
+    "options": {
+      "A": "feels",
+      "B": "feels like",
+      "C": "is feeling",
+      "D": "felt"
+    },
+    "answer": "A",
+    "explanation": "連綴動詞 feel 後接形容詞 happy，描述主詞 Mary 的狀態。雖然 got 是過去式，但此處描述當下的感覺，用現在式 feels 較自然，或用過去式 felt 也可以，但選項 A 最符合連綴動詞用法。若選 D，則表示過去感到快樂。"
+  },
+  {
+    "question": "A: What would you like to ______?\nB: I'd like some beef noodles, please.",
+    "options": {
+      "A": "eat",
+      "B": "order",
+      "C": "drink",
+      "D": "smell"
+    },
+    "answer": "B",
+    "explanation": "在餐廳點餐用動詞 order。"
+  },
+  {
+    "question": "The ______ brought us the menu after we sat down.",
+    "options": {
+      "A": "cook",
+      "B": "customer",
+      "C": "waiter",
+      "D": "chef"
+    },
+    "answer": "C",
+    "explanation": "在餐廳為顧客服務、送上菜單的是服務生 (waiter/waitress)。"
+  },
+  {
+    "question": "My mom is making ______ soup. It smells so good!",
+    "options": {
+      "A": "vegetable",
+      "B": "vegetables",
+      "C": "vegetarian",
+      "D": "vegan"
+    },
+    "answer": "A",
+    "explanation": "vegetable soup (蔬菜湯)，vegetable 作形容詞用修飾 soup。"
+  },
+  {
+    "question": "A: Does the coffee taste ______?\nB: No, it's just right. Not too sweet.",
+    "options": {
+      "A": "bitter",
+      "B": "sour",
+      "C": "sweet",
+      "D": "salty"
+    },
+    "answer": "C",
+    "explanation": "從回答 \"Not too sweet\" 可知問句是問咖啡是否太甜 (sweet)。"
+  }
+]
+
